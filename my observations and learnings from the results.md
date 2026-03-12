@@ -1,4 +1,4 @@
-# SGD Observations — Learning by Breaking Things(Used Claude to refinee my raw observations into this table)
+# SGD Observations(Used Claude to refinee my raw observations into this table)
 
 ---
 
